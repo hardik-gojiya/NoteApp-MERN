@@ -6,12 +6,6 @@ A full-stack Note-Taking web application built with the MERN (MongoDB, Express.j
 
 ---
 
-## 🚀 Live Demo
-
-[Click here to view live demo](https://your-live-app-link.com)
-
----
-
 ## 📸 Screenshots
 
 <!-- Add your screenshots here -->
